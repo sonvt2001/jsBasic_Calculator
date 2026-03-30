@@ -5,6 +5,11 @@ This project was created as a practice exercise to strengthen skills in DOM mani
 
 ---
 
+## Demo 
+
+You can try the project live here:  
+[JavaScript Calculator on GitHub Pages](https://sonvt2001.github.io/jsBasic_Calculator/)
+---
 ##  Features
 - Perform basic operations: addition, subtraction, multiplication, division
 - Clear and reset functionality
