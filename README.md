@@ -29,7 +29,7 @@ This project was created as a practice exercise to strengthen skills in DOM mani
 ## Installation & Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/sonvt2001/jsBasic-Calculator.git
+   git clone https://github.com/sonvt2001/jsBasic_Calculator.git
    ```
 2. Open `index.html` in your browser.
 3. Start calculating!
