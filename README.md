@@ -4,12 +4,6 @@ A simple yet functional calculator built with **HTML, CSS, and JavaScript**.
 This project was created as a practice exercise to strengthen skills in DOM manipulation, event handling, and basic arithmetic logic.
 
 ---
-
-## Demo 
-
-You can try the project live here:  
-[JavaScript Calculator on GitHub Pages](https://sonvt2001.github.io/jsBasic_Calculator/)
----
 ##  Features
 - Perform basic operations: addition, subtraction, multiplication, division
 - Clear and reset functionality
@@ -42,5 +36,8 @@ You can try the project live here:
 ---
 
 ##  Demo
+You can try the project live here:  
+[https://sonvt2001.github.io/jsBasic_Calculator/]
+---
 <img width="752" height="913" alt="image" src="https://github.com/user-attachments/assets/17e45aaa-27f2-4dcd-b4be-2d24702a2eab" />
 
