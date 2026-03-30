@@ -37,4 +37,5 @@ This project was created as a practice exercise to strengthen skills in DOM mani
 ---
 
 ##  Demo
-<img width="896" height="907" alt="image" src="https://github.com/user-attachments/assets/96f03f8c-944b-4b3a-b873-a4ef46689561" />
+<img width="752" height="913" alt="image" src="https://github.com/user-attachments/assets/17e45aaa-27f2-4dcd-b4be-2d24702a2eab" />
+
